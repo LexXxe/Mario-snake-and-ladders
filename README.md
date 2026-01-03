@@ -8,5 +8,6 @@ maked with AI
 2. Make sure you have pipgame installed.
 3. Run the script using:
    ```powershell
-   python game.py
+   python3 game.py
    ```
+
